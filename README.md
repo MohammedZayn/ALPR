@@ -1,5 +1,6 @@
 # yolov4-custom-functions
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+![web-app](https://user-images.githubusercontent.com/80457183/208437998-ae0e8aee-7db3-4c18-bc43-6652e87509bf.jpg)
 
 
 (Check ALPR.py and those 3 commands are to run to setup the application-- use streamlit run ALPR.py to run the application from the terminal)
